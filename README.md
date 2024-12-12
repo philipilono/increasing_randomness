@@ -1,1 +1,1 @@
-# increasing_randomness
+# Generating randomness using Cryptomite extractors
