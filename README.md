@@ -3,8 +3,6 @@
 
 **Cohort**: 9
 
-**Mentor**: [Cameron Foreman](https://github.com/cforeman-cqc)
-
 A [technical document](https://github.com/philipilono/increasing_randomness/blob/main/RNG_Cloud_Quantum_Computers.pdf) was produced as the main deliverable of this project and aims to provide a thorough description and analysis of the protocols implemented within the porject.
 
 ## Project Overview:
